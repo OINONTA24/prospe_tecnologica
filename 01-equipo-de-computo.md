@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Equipo de cómputo con presupuesto
+title: Proyecto final Prospectiva de la tecnologia
 nav_order: 2
 ---
 
